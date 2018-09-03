@@ -37,6 +37,8 @@ var libs = [
 
 var defaultSettings = {
   gutter: '30px',
+  gutterTablet: '24px',
+  gitterDesktop: '32px',
   flexbox: 'no-flex',
   cycle: 'auto',
   clearing: 'both',
